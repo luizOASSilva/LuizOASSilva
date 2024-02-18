@@ -1,6 +1,8 @@
 ### Olá! eu sou o Luiz Otavio, estudante de programação!
 
-- 📫 luizotavioassilva@gmail.com
+📫 luizotavioassilva@gmail.com
+
+ ##
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizOASSilva&show_icons=true&theme=radical)
 
