@@ -4,8 +4,9 @@
 
  ##
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizOASSilva&show_icons=true&theme=radical)
 
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOASSilva&layout=compact)](https://github.com/LuizOASSilva/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
