@@ -15,6 +15,7 @@ Por este motivo estou aqui para compartilhar um pouco da minha trajetória, **Se
 </div>
 
 <div align="center" style="display: inline_block"><br>
+ <h3 color="red">Minhas principais limguagens:</h3>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,7 +28,7 @@ Por este motivo estou aqui para compartilhar um pouco da minha trajetória, **Se
  ##
 
 <div align="center"> 
-  <h3>Como me Encontrar</h3>
+  <h3>Como me Encontrar:</h3>
   <a href = "mailto:luizotavioassilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-otavio-7ba963294?trk=contact-info" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5511985527064?text=Olá%20Victor!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%52a447?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
