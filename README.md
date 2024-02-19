@@ -23,5 +23,6 @@ Meu sonho desde criança era ser programador, apesar de as vezes cozinheiro, o s
 <div align="center"> 
   <a href = "mailto:luizotavioassilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5511985527064?text=Olá%20Victor!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%52a447?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
 </div>
