@@ -1,7 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=580EF7&random=false&width=435&lines=Ol%C3%A1%2C+%C3%A9+um+prazer!;Me+chamo+Luiz+Otavio.;Curso+Desenvolvimento+de+Sistemas." alt="Typing SVG" /></a>
 
 Estou cursando Desenvolvimento de Sistema pela instituição de ensino Etec Professor Carmine Biagio Tundisi e ao longo do tempo venho aprendendo cada vez mais sobre essa incrível área.
-Meu sonho desde criança era ser programador, apesar de as vezes cozinheiro, o sonho nunca deixou de existir. E hoje cada vez mais perto de alcançá-lo, não troco a tela de um computador e meia dúzia de códigos errados.
+Meu sonho desde criança era ser programador, apesar de as vezes cozinheiro, o sonho nunca deixou de existir, e hoje cada vez mais perto de alcançá-lo não troco a tela de um computador e meia dúzia de códigos errados.
+
+##
+
 Por este motivo estou aqui para compartilhar um pouco da minha trajetória, **Seja bem vindo(a)!**
 
 <br>
