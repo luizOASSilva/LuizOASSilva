@@ -1,7 +1,7 @@
 ### Olá! eu sou o Luiz Otavio, estudante de programação!
 
 Estou cursando Desenvolvimento de Sistema pela instituição de ensino Etec Professor Carmine Biagio Tundisi e ao longo do tempo venho aprendendo cada vez mais sobre essa incrível área.
-Meu sonho desde criança era ser programador, apesar de as vezes cozinheiro, o sonho nunca deixou de existir. E hoje cada vez mais perto de alcançá-lo, não troco a tela de um computador e meia dúzia de códigos errados. 
+Meu sonho desde criança era ser programador, apesar de as vezes cozinheiro, o sonho nunca deixou de existir. E hoje cada vez mais perto de alcançá-lo, não troco a tela de um computador e meia dúzia de códigos errados.\n 
 Por este motivo estou aqui para compartilhar um pouco da minha trajetória, **Seja bem vindo(a)!**
 
  <div align="center"> 
