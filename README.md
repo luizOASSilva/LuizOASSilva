@@ -4,9 +4,10 @@
 
  ##
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizOASSilva&show_icons=true&theme=radical)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOASSilva&layout=compact)](https://github.com/LuizOASSilva/github-readme-stats)
+ <div align="center"> 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-  Lis&layout=donut&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=10&&hide=HTML,CSS" />
+  <img height="195px" src="https://streak-stats.demolab.com?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=3EBDFF"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
