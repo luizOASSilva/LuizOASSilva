@@ -26,6 +26,8 @@ Por este motivo estou aqui para compartilhar um pouco da minha trajetória, **Se
 
  ##
 
+ <h1>Como me Encontrar</h1>
+
 <div align="center"> 
   <a href = "mailto:luizotavioassilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-otavio-7ba963294?trk=contact-info" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
