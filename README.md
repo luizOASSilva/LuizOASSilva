@@ -1,13 +1,17 @@
-### Olá! eu sou o Luiz Otavio, estudante de programação!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=580EF7&random=false&width=435&lines=Ol%C3%A1%2C+%C3%A9+um+prazer!;Me+chamo+Luiz+Otavio.;Curso+Desenvolvimento+de+Sistemas." alt="Typing SVG" /></a>
+
+<br>
 
 Estou cursando Desenvolvimento de Sistema pela instituição de ensino Etec Professor Carmine Biagio Tundisi e ao longo do tempo venho aprendendo cada vez mais sobre essa incrível área.
-Meu sonho desde criança era ser programador, apesar de as vezes cozinheiro, o sonho nunca deixou de existir. E hoje cada vez mais perto de alcançá-lo, não troco a tela de um computador e meia dúzia de códigos errados.\n 
+Meu sonho desde criança era ser programador, apesar de as vezes cozinheiro, o sonho nunca deixou de existir. E hoje cada vez mais perto de alcançá-lo, não troco a tela de um computador e meia dúzia de códigos errados.
 Por este motivo estou aqui para compartilhar um pouco da minha trajetória, **Seja bem vindo(a)!**
 
  <div align="center"> 
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOASSilva&layout=donut&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=10&&hide=HTML,CSS" />
   <img height="195px" src="https://streak-stats.demolab.com?user=LuizOASSilva&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=3EBDFF"/>
 </div>
+
+<br>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
