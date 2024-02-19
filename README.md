@@ -1,7 +1,8 @@
 ### Olá! eu sou o Luiz Otavio, estudante de programação!
 
- Estou cursando Desenvolvimento de Sistema pela instituição de ensino Etec Professor Carmine Biagio Tundisi e ao longo do tempo, venho aprendendo cada vez mais sobre essa incrível área.
-Meu sonho desde criança era ser programador, apesar de as vezes cozinheiro, o sonho nunca deixou de existir. Hoje cada vez mais perto de alcança-lo vejo que não troco a tela de um computador e meia dúzia de códigos errados e por isso estou aqui para compartilhar um pouco da minha trajetória. Seja bem vindo(a)!
+Estou cursando Desenvolvimento de Sistema pela instituição de ensino Etec Professor Carmine Biagio Tundisi e ao longo do tempo venho aprendendo cada vez mais sobre essa incrível área.
+Meu sonho desde criança era ser programador, apesar de as vezes cozinheiro, o sonho nunca deixou de existir. E hoje cada vez mais perto de alcançá-lo, não troco a tela de um computador e meia dúzia de códigos errados. 
+Por este motivo estou aqui para compartilhar um pouco da minha trajetória, **Seja bem vindo(a)!**
 
  <div align="center"> 
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOASSilva&layout=donut&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=10&&hide=HTML,CSS" />
