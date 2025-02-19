@@ -1,7 +1,6 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=600&pause=1000&color=4E37C8&width=435&lines=Ol%C3%A1%2C+%C3%A9+um+prazer!)](https://git.io/typing-svg)
-
 <h1> Técnico em Desenvolvimento de Sistemas </h1>
 <p>Formado na instituição de ensino: <strong> Etec Prof. Carmine Biagio Tundisi </strong> </p>
 
