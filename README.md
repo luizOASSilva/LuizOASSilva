@@ -4,6 +4,8 @@
 <h1> Técnico em Desenvolvimento de Sistemas </h1>
 <p>Formado na instituição de ensino: <strong> Etec Prof. Carmine Biagio Tundisi </strong> </p>
 
+<h2>Sobre</h2>
+
 Atualmente expandindo minhas formações, cursando <strong> Tecnologia em Análise e Desenvolvimento de Sistema </strong> pela instituição de ensino <strong> Fatec Bragança Paulista - jornalista omair fagundes de oliveira</strong>, onde ao longo do tempo vou aprender cada vez mais sobre essa incrível área.
 Meu sonho desde criança era ser programador, apesar de as vezes cozinheiro, o sonho nunca deixou de existir. E hoje cada vez mais perto de alcançá-lo, não troco a tela de um computador e meia dúzia de códigos errados.
 
