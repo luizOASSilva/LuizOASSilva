@@ -3,9 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+sans&weight=600&pause=1000&color=7235E9&random=false&width=435&lines=Ol%C3%A1%2C+%C3%A9+um+prazer!;Me+chamo+Luiz+Otavio.;Curso+Desenvolvimento+de+Sistemas!)](https://git.io/typing-svg)
 
 <h1> Técnico em Desenvolvimento de Sistsemas</h1>
-<p>Etec Prof. Carmine Biagio Tundisi</p>
+<p>Formado na instituição de ensino: <strong>Etec Prof. Carmine Biagio Tundisi</strong></p>
 
-Estou cursando Tecnologia em Análise e Desenvolvimento de Sistema pela instituição de ensino Fatec Bragança Paulista e ao longo do tempo venho aprendendo cada vez mais sobre essa incrível área.
+<h2>Sobre</h2>
+
+Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistema pela instituição de ensino Fatec Bragança Paulista e ao longo do tempo venho aprendendo cada vez mais sobre essa incrível área.
 Meu sonho desde criança era ser programador, apesar de as vezes cozinheiro, o sonho nunca deixou de existir. E hoje cada vez mais perto de alcançá-lo, não troco a tela de um computador e meia dúzia de códigos errados.
 
 ##
