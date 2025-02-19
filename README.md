@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=600&pause=1000&color=4E37C8&width=435&lines=Ol%C3%A1%2C+%C3%A9+um+prazer!)](https://git.io/typing-svg)
 <h1> Técnico em Desenvolvimento de Sistemas </h1>
-<h2>Formado na instituição de ensino: <strong> Etec Prof. Carmine Biagio Tundisi </strong> </h2>
+Formado na instituição de ensino: <strong> Etec Prof. Carmine Biagio Tundisi </strong>
 
 Atualmente expandindo minhas formações, cursando <strong> Tecnologia em Análise e Desenvolvimento de Sistema </strong> pela instituição de ensino <strong> Fatec Bragança Paulista - jornalista omair fagundes de oliveira</strong>, onde ao longo do tempo vou aprender cada vez mais sobre essa incrível área.
 Meu sonho desde criança era ser programador, apesar de as vezes cozinheiro, o sonho nunca deixou de existir. E hoje cada vez mais perto de alcançá-lo, não troco a tela de um computador e meia dúzia de códigos errados.
